@@ -5,5 +5,6 @@ import castingMain from "./exercises/casting";
 import classesMain from "./exercises/classes";
 import genericsMain from "./exercises/generics";
 import utilityTypesMain from "./exercises/utilityTypes";
+import keyofMain from "./exercises/keyof";
 
-utilityTypesMain();
+keyofMain();
