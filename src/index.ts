@@ -6,5 +6,6 @@ import classesMain from "./exercises/classes";
 import genericsMain from "./exercises/generics";
 import utilityTypesMain from "./exercises/utilityTypes";
 import keyofMain from "./exercises/keyof";
+import nullAndUndefinedMain from "./exercises/nullAndUndefined";
 
-keyofMain();
+nullAndUndefinedMain();
