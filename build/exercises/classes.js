@@ -57,6 +57,8 @@ class PublicPersonWithNameAndAge extends PublicPersonWithName {
         return `Name:${this.name} Age:${this.age}`;
     }
 }
+//Gives access to name, surname and make both changeable
+//Overrides PublicPersonWithName toString method
 class PublicPersonWithNameAndSurname extends PublicPersonWithName {
     constructor(name, surname) {
         super(name);
