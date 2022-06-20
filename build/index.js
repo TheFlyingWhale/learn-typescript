@@ -3,5 +3,6 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-const nullAndUndefined_1 = __importDefault(require("./exercises/nullAndUndefined"));
-(0, nullAndUndefined_1.default)();
+const visAlex_1 = __importDefault(require("./exercises/visAlex"));
+(0, visAlex_1.default)();
+// nullAndUndefinedMain();
